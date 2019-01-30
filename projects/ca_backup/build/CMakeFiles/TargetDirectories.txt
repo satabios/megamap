@@ -1,0 +1,3 @@
+/home/ti-dsp/projects/ca/build/CMakeFiles/edit_cache.dir
+/home/ti-dsp/projects/ca/build/CMakeFiles/rebuild_cache.dir
+/home/ti-dsp/projects/ca/build/CMakeFiles/main.dir
